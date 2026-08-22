@@ -8,3 +8,21 @@
 </header>
 
 <h1 align="center">📌 Sobre o laboratório</h1>
+
+
+---
+
+<p align="center">
+  ☁️ <strong>Aprendizado contínuo em Cloud Computing</strong> ☁️
+</p>
+
+<p align="center">
+  <sub>Laboratório realizado para fins educacionais.</sub>
+</p>
+
+
+
+
+<p align="center">
+  <sub>© 2026 Alessandro Batista Prudente — Todos os direitos reservados.</sub>
+</p>
