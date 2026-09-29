@@ -240,13 +240,5 @@ Material utilizado para a realização das atividades práticas deste laboratór
 </p>
 
 <p align="center">
-  <sub>© 2026 Alessandrodevbp — Todos os direitos reservados.</sub>
-</p>
-
-
-
-
-
-<p align="center">
   <sub>© 2026 Alessandro Batista Prudente — Todos os direitos reservados.</sub>
 </p>
