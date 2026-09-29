@@ -198,13 +198,13 @@ O `user-1`, por exemplo, conseguiu acessar o Amazon S3, mas não o EC2. O `user-
 
 ## 🧰 Tecnologias e serviços
 
-[AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
 
-[IAM](https://img.shields.io/badge/AWS-IAM-orange?style=for-the-badge&logo=amazonaws)
+![IAM](https://img.shields.io/badge/AWS-IAM-orange?style=for-the-badge&logo=amazonaws)
 
-[S3](https://img.shields.io/badge/Amazon-S3-orange?style=for-the-badge&logo=amazons3)
+![S3](https://img.shields.io/badge/Amazon-S3-orange?style=for-the-badge&logo=amazons3)
 
-[EC2](https://img.shields.io/badge/Amazon-EC2-orange?style=for-the-badge&logo=amazonec2)
+![EC2](https://img.shields.io/badge/Amazon-EC2-orange?style=for-the-badge&logo=amazonec2)
 
 **Serviços e conceitos estudados:**
 
